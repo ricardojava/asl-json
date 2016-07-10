@@ -1,0 +1,20 @@
+Entrada:
+{
+   "userlogin":{
+   "user":"Cassandra",
+   "pwd":"^~][;)$As!12C$3==§§§§§]",
+   "canal":"SAC"
+     }
+   
+}
+   
+Saída:
+{
+   "userlogin":{
+      "codReturn":0,
+      "msg":"usuário encontrado com sucesso.",
+      "return":{
+      "token":"lçjfdjfhlfhlsh13231321231f9f0jfdf093u30hou90hgdh"
+        }
+      }
+ }

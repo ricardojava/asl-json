@@ -1,0 +1,17 @@
+Entrada:
+{
+	"refundapprove": {
+		"token": "ureuyqoeruejfjhflh4741477747528975027hfffhghglsfhd957507250roghhg3470",
+		"numsolici": "72805740752047",
+		"typeticket": "EMD",
+		"numticket": "434343434314"
+	}
+}
+
+Saída:
+{
+   "refundapprove":{
+      "codReturn":3,
+      "msg":"Bilhete informado não pertence ao Nº de Solicitação."      
+     }
+ }

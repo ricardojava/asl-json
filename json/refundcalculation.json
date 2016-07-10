@@ -1,0 +1,26 @@
+Entrada:
+{
+	"refundcalculation": {
+		"token": "afdf343434sfaef3442hlfhdhafldhlfhdafj374087308174",
+		"typedoc": "EMD",
+		"numdoc": "43891479374081",
+		"numemd": "125355",
+		"codmotivorefund": "1212"
+	}
+}
+
+Saída:
+{
+	"refundcalculation": {
+		"codReturn": 0,
+		"msg": "Calculo realizado com sucesso.",
+		"value": {
+			"totalfirepaid": "12,12",
+			"totalfireusad": "22,22",
+			"firerefunded": "123,222",
+			"taxesrefunded": "12121",
+			"cancellationpenalty": "33,33",
+			"totalrefund": "2121,12"
+		}
+	}
+}

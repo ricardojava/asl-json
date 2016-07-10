@@ -1,0 +1,19 @@
+Entrada:
+{
+	"servicechannellist": {
+     "token":"jfdafjahlfhlafhlah27948798bfdksfsh9r848q"
+  }
+}
+
+Saída:
+{
+   "servicechannellist":{
+      "codReturn":0,
+      "msg":"OK",
+      "statuslist":{
+      "cod":"100","desc":"Descrição do Canal de Atendimento 1",
+      "cod":"102","desc":"Descrição do Canal de Atendimento 2",
+      "cod":"103","desc":"Descrição do Canal de Atendimento 3"
+        }
+      }
+ }

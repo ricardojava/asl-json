@@ -1,0 +1,19 @@
+Entrada:
+{
+	"refundstatustypelist": {
+     "token":"jfdafjahlfhlafhlah27948798bfdksfsh9r848q"
+  }
+}
+
+
+Saída:
+{
+   "refundstatustypelist":{
+      "codReturn":3,
+      "msg":"Bilhete informado não pertence ao Nº de Solicitação.",
+      "statuslist":{
+      "cod":"100","desc":"Descrição do Status 1",
+      "cod":"102","desc":"Descrição do Status 2"
+        }
+      }
+ }

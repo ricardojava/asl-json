@@ -1,0 +1,17 @@
+Entrada:
+{
+	"refundconfirmation": {
+     "token":"jfdafjahlfhlafhlah27948798bfdksfsh9r848q",
+     "typeticket":"ETKT",
+     "numticket":"34343431"
+  }
+}
+
+
+Saída:
+{
+	"refundconfirmation": {
+		"cod": "0",
+		"msg": "Confirmação realizada com sucesso"
+	}
+}

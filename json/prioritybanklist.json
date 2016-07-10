@@ -1,0 +1,22 @@
+Entrada:
+{
+	"prioritybanklist": {
+     "token":"jfdafjahlfhlafhlah27948798bfdksfsh9r848q"
+  }
+}
+
+Saída:
+{
+	"prioritybanklist": {
+		"cod": "0",
+		"msg": "Consulta com sucesso",
+		"banks": {		
+				"cod": "147",
+				"desc": "Caixa economica federal",
+				"cod": "244",
+				"desc": "bradesco",
+				"cod": "133",
+				"desc": "itaú"
+			}
+		}
+	}
